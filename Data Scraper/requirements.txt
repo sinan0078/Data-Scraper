@@ -1,0 +1,9 @@
+fastapi
+praw
+snscrape
+openai
+pymongo
+celery
+python-dotenv
+uvicorn
+apscheduler
