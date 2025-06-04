@@ -24,5 +24,5 @@ A real-time, AI-powered social media data harvesting system that extracts and an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/data-scraper.git
+git clone https://github.com/sinan0078/data-scraper.git
 cd data-scraper
